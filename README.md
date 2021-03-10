@@ -24,7 +24,7 @@ all life on our planet.
 We can achieve great things by utilising these incredible tools and technologies
 positively and responsibly, and I want to be a part of that.
 
-### Current Skillsets:
+### Current Skill Set:
 
 • Python Programming & Development:
 
