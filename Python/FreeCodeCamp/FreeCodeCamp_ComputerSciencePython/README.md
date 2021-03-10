@@ -1,18 +1,18 @@
-Scientific Computing with Python - freeCodeCamp Certification
+### Scientific Computing with Python - freeCodeCamp Certification
 
 https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
 During this course, I completed the following courses.
 
-Python for Everybody - Free 14 hour Python course from Dr. Chuck
+#### Python for Everybody - Free 14 hour Python course from Dr. Chuck
 https://www.freecodecamp.org/news/python-for-everybody/
 https://www.youtube.com/watch?v=8DvywoWv6fI&ab_channel=freeCodeCamp.org
 
-Learn Python basics with this in-depth video course
+#### Learn Python basics with this in-depth video course
 https://www.freecodecamp.org/news/learn-python-basics-in-depth-video-course/
 https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org
 
-In this Root Folder: FreeCodeCamp_ComputerSciencePython
+#### In this Root Folder: FreeCodeCamp_ComputerSciencePython
 
 You can view my submissions to the assignments required to attain the
 freeCodeCamp accreditation:
@@ -34,8 +34,8 @@ There will also be a README.md with the assignments briefing.
 
 Alternatively, you can also view each of these assignments at my Repl.it:
 
-https://repl.it/@SeanRavenhill/SBR-FCC-Arithmetic-Formatter-Submission
-https://repl.it/@SeanRavenhill/SBR-FCC-Time-Calculator-Submission
-https://repl.it/@SeanRavenhill/SBR-FCC-Budget-App-Submission
-https://repl.it/@SeanRavenhill/SBR-FCC-Polygon-Area-Calculator-Submission
-https://repl.it/@SeanRavenhill/SBR-FCC-Probability-Calculator-Submission
+https://repl.it/@SeanRavenhill/SBR-FCC-Arithmetic-Formatter-Submission<br>
+https://repl.it/@SeanRavenhill/SBR-FCC-Time-Calculator-Submission<br>
+https://repl.it/@SeanRavenhill/SBR-FCC-Budget-App-Submission<br>
+https://repl.it/@SeanRavenhill/SBR-FCC-Polygon-Area-Calculator-Submission<br>
+https://repl.it/@SeanRavenhill/SBR-FCC-Probability-Calculator-Submission<br>

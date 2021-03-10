@@ -17,8 +17,8 @@ Sean Ravenhill
 ################################################################################
 ################################################################################
 
-Complete Python 3 Masterclass Journey
-By: Udemy and Jose Portilla, Head of Data Science, Pierian Data Inc.
+### Complete Python 3 Masterclass Journey
+#### By: Udemy and Jose Portilla, Head of Data Science, Pierian Data Inc.
 
 About this course
 https://www.udemy.com/course/complete-python-3-masterclass-journey/
