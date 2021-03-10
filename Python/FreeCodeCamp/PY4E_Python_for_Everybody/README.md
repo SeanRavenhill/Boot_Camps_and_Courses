@@ -1,6 +1,5 @@
 ### Python for Everyone https://www.py4e.com/
-#### Dr Charles R. Severance http://www.dr-chuck.com/ Clinical Professor University
-#### of Michigan School of Information.
+#### Dr Charles R. Severance http://www.dr-chuck.com/ Clinical Professor University of Michigan School of Information.
 
 I completed this course as part of the requirements to gain my certification
 in Scientific Computing with Python (https://www.freecodecamp.org/certification/sean_ravenhill/scientific-computing-with-python-v7)
